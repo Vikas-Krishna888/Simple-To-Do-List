@@ -27,6 +27,11 @@ export const App = () => {
       rowDescription: "Sniper",
       rowAssigned: "Usopp",
     },
+    {
+      rowNumber: 5,
+      rowDescription: "Navigator",
+      rowAssigned: "Nami",
+    },
   ]);
 
   const addMember = (crew: string, profession: string) => {
